@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gabarrigoni/csv-parset/issues"
   },
-  "homepage": "https://github.com/gabarrigoni/csv-parset#readme"
+  "homepage": "https://github.com/gabarrigoni/csv-parset#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
 }
