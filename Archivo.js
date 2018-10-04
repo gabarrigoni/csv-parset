@@ -1,5 +1,5 @@
 var fs = require ('fs');
-var archivo = fs.readFileSyn('./alumnos.txt', 'utf8');
+var archivo = fs.readFileSync('./alumnos.txt', 'utf8');
 
 console.log(archivo);
 

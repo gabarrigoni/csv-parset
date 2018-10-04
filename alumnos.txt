@@ -1,0 +1,6 @@
+Agus
+Joel 
+Joaco
+Luis 
+Gaby 
+'imagenes/auto_rojo_abajo.png',
